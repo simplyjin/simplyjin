@@ -2,7 +2,7 @@
 
 ✳️ I'm currently learning R with applications to business analytics and data visualization
 
-❓  Future work: Logistic regression, Process control charts, Market basket analysis, multichannel attributions, machine learning using random forest
+❓  Future work: ❓
 
 📖 Reading: 
 1. [Progress - Ten Reasons to Look Forward to the Future](https://www.goodreads.com/book/show/31694126-progress---ten-reasons-to-look-forward-to-the-future) by Johan Norberg 
